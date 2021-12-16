@@ -12,7 +12,7 @@
                 "ts-node/register/transpile-only"
             ],
 
-            "args": ["day13/index.ts"],
+            "args": ["day14/index.ts"],
 
             "cwd": "${workspaceRoot}",
             "internalConsoleOptions": "openOnSessionStart",
